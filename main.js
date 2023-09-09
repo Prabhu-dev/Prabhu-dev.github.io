@@ -14,4 +14,3 @@
 //script for footer year
     var date = new Date().getFullYear();
     document.getElementById("year").innerHTML = date;
-    
